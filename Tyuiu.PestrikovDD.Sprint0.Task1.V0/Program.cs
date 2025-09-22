@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Tyuiu.PestrikovDD.Sprint0.Task1.V0
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
-            string name = "Данила";
-            int age = 22;
-            Console.WriteLine("Привет меня зовут " + name + " мне " + age + " лет! " );
+            string name = "Игорь";
+            int age = 45;
+            Console.WriteLine("Меня зовут " + name + "мне" + age + "лет!");
             Console.ReadKey();
         }
     }

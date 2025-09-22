@@ -4,12 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.PestrikovDD.Sprint0.Task0.V0
+using Tyuiu.PestrikovDD.Sprint0.Task3.V0.Lib;
+
+namespace Tyuiu.PestrikovDD.Sprint0.Task3.V0
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(DataService.Sum(7, 7));
+            Console.ReadKey();
         }
     }
 }

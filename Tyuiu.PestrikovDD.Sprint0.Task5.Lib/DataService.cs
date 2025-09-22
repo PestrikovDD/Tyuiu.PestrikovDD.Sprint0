@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.PestrikovDD.Sprint0.Task0.V0
+namespace Tyuiu.PestrikovDD.Sprint0.Task5.Lib
 {
-    class Program
+    public class Class1
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

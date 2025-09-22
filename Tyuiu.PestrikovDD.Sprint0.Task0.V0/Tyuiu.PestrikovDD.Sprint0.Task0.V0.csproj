@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DF3B5568-D028-4A88-AA32-9A992C731280}</ProjectGuid>
+    <ProjectGuid>{D2C93787-FBBB-4424-88B2-608B9BE30D79}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.PestrikovDD.Sprint0.Task0.V0</RootNamespace>
     <AssemblyName>Tyuiu.PestrikovDD.Sprint0.Task0.V0</AssemblyName>
